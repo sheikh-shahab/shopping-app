@@ -2,8 +2,6 @@
 
 
 import Link from "next/link";
-
-import { useState } from "react";
 import ImageSlider from "./ImageSlider";
 import { Typewriter } from "react-simple-typewriter";
 
