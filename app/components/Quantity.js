@@ -1,7 +1,7 @@
 import { useState } from "react";
 import Image from "next/image";
 import AddIcon from '../../public/add green icon.webp';
-import RemoveIcon from '../../public/red icon.webp';
+
 import Minus from '../../public/minus.png';
 
 const Quantity = ({initialQuantity = 1, onChange }) => {
