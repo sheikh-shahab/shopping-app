@@ -2,14 +2,6 @@
 
 import Link from "next/link";
 import Image from "next/image";
-import watchImage from "../../public/men watch.jpg";
-import menShoes from "../../public/men shoes.jpg";
-import menShirt from "../../public/men fashion1.jpg";
-import womenShirt from "../../public/women.jpg";
-import womenSuit from "../../public/ladies2.jpg";
-import Perfume from "../../public/perfumes 2.jpg";
-import makeup from "../../public/women makeup.jpg";
-import Bag from "../../public/ladies bag.jpg";
 import Star1 from "../../public/stars1.jpg";
 import { FaArrowRightLong } from "react-icons/fa6";
 import { ProductList } from "../../public/assets";
