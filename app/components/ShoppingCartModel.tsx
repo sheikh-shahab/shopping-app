@@ -8,7 +8,7 @@ import {
 } from "@/components/ui/sheet";
 import { useShoppingCart } from "use-shopping-cart";
 import Image from "next/image";
-import Checkout from "./Checkout";
+
 
 
 export default function ShoppingCartModel() {
